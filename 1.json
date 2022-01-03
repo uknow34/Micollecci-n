@@ -1,0 +1,39 @@
+{
+  "name": "hdtfsgdtury #1",
+  "description": "hdtfsgdtury",
+  "image": "https://raw.githubusercontent.com/uknow34/Micollecci-n/main/1.png",
+  "dna": "8a557f244a5c9b5c6e70af38677fb5a9ba9b8189",
+  "edition": 1,
+  "date": 1641246389555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
